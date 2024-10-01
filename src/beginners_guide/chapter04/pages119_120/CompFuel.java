@@ -27,7 +27,6 @@ public class CompFuel {
         Vehicle sportscar = new Vehicle();
         double gallons;
         int dist = 252;
-
         // assign values to fields in minivan
         minivan.passengers = 7;
         minivan.fuelcap = 16;
